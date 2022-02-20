@@ -1,0 +1,28 @@
+#profile{
+    width: 45%;
+    float: left;
+    display: block;
+    margin: 0 auto;
+
+}
+
+#information{
+    width: 45%;
+    float: right;
+    display: block;
+}
+
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+#information{
+    font-size:larger;
+}
+
+#name{
+    font-size: 1cm;
+}
+
